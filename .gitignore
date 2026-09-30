@@ -1,0 +1,6 @@
+.DS_Store
+*~
+
+# сгенерированные help-теги
+doc/tags
+doc/tags-*
